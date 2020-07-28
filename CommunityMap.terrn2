@@ -11,8 +11,10 @@ GUID = CommunityMap
 
 [Authors]
 terrain = Community/DarthCain
-
  
 [Objects]
 CommunityMap.tobj=
 CommunityMap-veg.tobj=
+
+[Scripts]
+CommMapScripts.as=
